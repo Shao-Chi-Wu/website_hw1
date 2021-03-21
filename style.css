@@ -1,0 +1,67 @@
+.format_1{
+    /*background-color:#a29bfe;*/
+    background-image: url(img/book.jpg);
+    background-position: center;
+    background-size: 40%;
+    color:#f5f6fa;
+    font-weight: bold;
+    font-size:380px;
+    text-align:left;
+    /*border-radius: 15px;*/
+}
+.format_2{
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.format_box_out{
+    width:375px;
+    height:375px;
+    margin: 25px;
+    background-color:#d1ccc0;
+    padding:25px 30px;
+    display:inline-block;
+    vertical-align: top;
+    border: 3px solid #fff;
+    border-radius: 20px;
+}
+.format_box_in{
+    width:375px;
+    height:375px;
+    background-color:#CAD3C8;
+    border-radius: 25px;
+    border: 1px solid #fff;
+}
+.format_title{
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+    color:#ffffff;
+}
+.format_content{
+    font-weight: bold;
+    font-size:25px;
+    text-align:left;
+    margin: 25px;
+}
+.format_content_2{
+    font-weight:lighter;
+    font-size:20px;
+    text-align:center;
+    margin: 25px;
+}
+.format_background_photo{
+    width: 100%;
+    height: 100vh;
+    background-image:url(img/mountain.jpg);
+    background-position: center;
+    background-size: 35%;
+}
+/*#btn{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+}*/
+a{
+    color:#dff9fb;
+}
