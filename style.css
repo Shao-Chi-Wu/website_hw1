@@ -57,11 +57,28 @@
     background-position: center;
     background-size: 35%;
 }
-/*#btn{
+#btn{
     border: 1px solid #ffffff;
-    border-radius: 5px;
-    padding: 5px;
-}*/
+    border-radius: 15px;
+    font-size: 10px;
+    padding: 3px 5px;
+    color:white;
+    background-color: #dfe4ea;
+}
+#btn:hover{
+    background-color:black;
+    opacity: 0.5;
+    cursor: pointer;
+}
+input{
+    background-color: #f1f2f6;
+    border: 2px solid #ffffff;
+}
+input:focus{
+    border:3px solid #f7f1e3;
+    outline-width: 0px;
+    background-color:#ffffff;
+}
 a{
     color:#dff9fb;
 }
